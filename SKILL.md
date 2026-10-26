@@ -3,7 +3,7 @@ name: model-prompt-routing
 description: Choose model and effort, and construct bounded prompts for delegated agents, sessions or media-generation tools.
 license: MIT
 metadata:
-  version: "2.1"
+  version: "2.2"
 ---
 
 # Model prompt routing
@@ -43,7 +43,7 @@ decision actually arises; do not load all model guides.
 | Decision | Reference |
 |---|---|
 | Claude-specific packet adaptation or migration | [Claude guidance](references/claude-official-guides.md), matching model section only |
-| GPT-6 (Astra/Sol/Luna) tier selection, workflow adaptation, effort or migration | [GPT-6 guidance](references/openai-gpt-6-official-guides.md) |
+| GPT-6 (Astra/Sol/Terra/Luna) tier selection, workflow adaptation, effort or migration | [GPT-6 guidance](references/openai-gpt-6-official-guides.md) |
 | Legacy GPT-5.6 target or provider/context accounting | [GPT-5.6 guidance](references/openai-gpt-5.6-official-guides.md) |
 | Grok 4.7 target or migration | [Grok guidance](references/xai-grok-official-guides.md) |
 | DeepSeek V4.1 Flash 1017 target | [DeepSeek guidance](references/deepseek-official-guides.md) |

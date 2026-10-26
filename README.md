@@ -52,7 +52,7 @@ they can follow; use bounded subagents only where the current harness permits.
 ## Contents and policy
 
 - `SKILL.md`: concise task contract and selective reference routing.
-- `references/openai-gpt-6-official-guides.md`: current family and Sol 6.1 guidance.
+- `references/openai-gpt-6-official-guides.md`: current family, Sol 6.1 and Terra 6.1 guidance.
 - `references/claude-official-guides.md`: current Claude model-specific guidance.
 - `references/openai-gpt-5.6-official-guides.md`: full legacy-family guidance and
   API versus subscription accounting caveats.
